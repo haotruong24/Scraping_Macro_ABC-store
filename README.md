@@ -1,4 +1,5 @@
 # Scraping_Macro_ABC-store
+
 ## General Information:
 These scripts are written to automate a mundate job of manually extract product's information from a wholesaler e-commercial site and then manually reformat and transform the data in excel before uploading it to Point-Of-Sale software for inventory tracking.
 
@@ -30,7 +31,7 @@ There are 2 steps in this process
 You can find a detailed comments and demonstration run in the Today_Selenium Scraper folder
 
 ## NOTE:
-1. You wont be able to run the script on your computer without an account (these are B2B site, so account is only provided to partner business). However, I hope the file python and Macro scripts would be helpful for you to create your own scripts.
+1. You wont be able to run the script without an account (these are B2B site, so account is only provided to partner business). However, I hope these python files and Macro scripts would be helpful to create your own scripts.
 
 2. As much as I want to make the entire process automatically, human intervention is requried to categorize the product types. ML classification model can be used here to automate this process. However, the cost-benefit is not justified to build it for a small scale business.
 
